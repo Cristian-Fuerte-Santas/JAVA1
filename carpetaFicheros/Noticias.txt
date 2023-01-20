@@ -1,0 +1,21 @@
+Noticia: 
+fecha= 2021-10-12
+titulo= Los que nos leen nuestro periódico son los mejores
+texto= Un científico muy famoso, cuyo nombre no desvelaremos a petición personal, ha publicado los resultados de una investigación recientemente en una revista muy prestigiosa, cuyo título y página en la que aparece dicha investigación no podemos desvelar porque solo nos la ha enseñado a nosotros. Aún así, creednos porque es verdad de la buena. La investigación ha desvelado que los lectores de nuestro periódico son los más inteligentes, atractivos, productivos y honrados del mundo. De entre estes, los que pagan la subscripción anual más cara, son los que más posibilidades tienen de acabar siendo multimillonarios. Todos los que leen otros periódicos que no son el nuestro, según concluye el estudio, tienen muchas mas posibilidades de que se les caiga un caimán hambriento encima, algo que, según el científico, ocurre cada tres segundos en España.
+autor= Miguel
+Noticia: 
+fecha= 2020-04-13
+titulo= Todo está bien
+texto= Absolutamente todo en el mundo va bien. No hay nada malo que contar hoy. Disfrutad el día.
+autor= Marta
+Noticia: 
+fecha= 2022-07-24
+titulo= La verdad sobre los pomos de las puertas
+texto= Hoy por la noche, en la Sexta, se emitirá un especial de Equipo de Investigación, para desvelar los secretos nunca antes contados de los pomos de las puertas. Qué nos ocultan estos aparentemente inocuos objetos? Es posible que quieran dominar el mundo? Se contará con la participación del Presidente de la Asociación Española de la Estudios del Pomo.
+autor= Pablo
+Noticia: 
+fecha= 2022-02-10
+titulo= soy el titulo
+texto= hola texto
+autor= Lola
+
